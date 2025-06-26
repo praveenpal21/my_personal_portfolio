@@ -31,7 +31,7 @@ This project showcases a personal brand, technical skills, and web development p
 
 ## 📂 Folder Structure
 
-
+ ```bash
 📁 project-folder/
 ├── index.html
 ├── style.css
@@ -42,6 +42,7 @@ This project showcases a personal brand, technical skills, and web development p
 ├── react.png
 ├── js.png
 └── mangodb.png
+```
 
 
 ## 📱 Responsive Design
